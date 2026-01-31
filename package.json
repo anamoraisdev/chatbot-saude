@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@google/generative-ai": "^0.21.0",
+    "@google/generative-ai": "^0.24.1",
     "@react-native-community/cli": "latest",
     "@react-navigation/native": "^7.0.0",
     "@react-navigation/stack": "^7.0.0",
@@ -28,7 +28,8 @@
     "typescript": "^5.3.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.2"
+    "@babel/core": "^7.25.2",
+    "@types/react-native": "^0.73.0"
   },
   "private": true,
   "expo": {
